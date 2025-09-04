@@ -17,7 +17,7 @@ Welcome to my GitHub profile!
 
 - ## 📂 My Projects
 
-- 🔬 [LabEquip Check](https://github.com/seu-usuario/labequip-check) – Equipment verification system for labs
+- 🔬 [LabEquip Check]([https://github.com/seu-usuario/labequip-check](https://github.com/Diegoeo333/Verifica-o-de-Equipamentos) – Equipment verification system for labs
 
 ## 📫 How to reach me
 
